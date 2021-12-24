@@ -1,0 +1,17 @@
+# Python cached sources
+__pycache__/
+*.pyc
+
+# PyChamr/IntelliJ-generated files
+*.iml
+.idea/
+
+# Visual Studio Code-generated files
+.settings/
+.project
+.vscode/
+.vs/
+
+
+# Tox/Nox-generated files
+.[nt]ox/
